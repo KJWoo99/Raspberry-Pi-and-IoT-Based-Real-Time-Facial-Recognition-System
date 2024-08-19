@@ -97,6 +97,9 @@ When a face is detected and recognized:
 2. This triggers the Cloud Function
 3. An email is sent via SendGrid with details of the detected face
 
+## 🌟 Result
+![image](https://github.com/user-attachments/assets/507c271c-0b36-4634-a804-0296a3ed16a3)
+
 ## 📝 Notes
 
 - Dropbox token expires after 4 hours
@@ -107,4 +110,4 @@ When a face is detected and recognized:
 - Test the email functionality in a controlled environment first
 
 
-이 README는 새로운 사용자나 협력자가 프로젝트를 쉽게 이해하고 시작할 수 있도록 돕는 종합적인 가이드 역할을 합니다.
+
