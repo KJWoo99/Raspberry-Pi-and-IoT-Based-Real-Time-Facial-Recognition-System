@@ -1,5 +1,6 @@
 
 # 🎭 AI Face Recognition System
+![image](https://github.com/user-attachments/assets/89fdbc11-3cfd-43d3-af03-c3c023083fad)
 
 ## 📸 Real-time Face Detection & Recognition with Email Notifications
 
