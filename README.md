@@ -21,7 +21,7 @@ This project integrates fast and accurate facial recognition with real-time moni
 - 🧠 Uses CNN model for accurate face recognition
 - 📧 Automatic email notifications via SendGrid when faces are detected
 
-### 🛠️ Technologies Used
+### 🛠️ Technology Stack
 
 - Python 3
 - OpenCV
