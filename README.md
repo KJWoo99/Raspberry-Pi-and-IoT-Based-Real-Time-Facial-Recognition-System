@@ -10,7 +10,7 @@
 ![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
 
-This project combines advanced face recognition capabilities with real-time email notifications, leveraging AI and cloud technologies for enhanced security and monitoring.
+This project integrates fast and accurate facial recognition with real-time monitoring and email notifications, using Raspberry Pi and IoT technology for enhanced security and user information protection.
 
 ### 🌟 Key Features
 
